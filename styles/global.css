@@ -1,6 +1,6 @@
 
 :root {
-    --primary-background: #FFFFF4;
+    --primary-background: #f33e07;
     --chrome-background: #e3b574;
     --chrome-background-opaque: #e3b574d1;
     --secondary-background: #C9B39B;
@@ -11,15 +11,23 @@
     --gutter: 30px;
 }
 
+.bold {
+    font-weight: 1000 ;
+}
+
+
+
 body {
     /* style */
     font-family: 'Titillium Web', sans-serif;
-    background-color: var(--primary-background);
+    background-color: #f33e07;
     color: var(--text-color);
 
     /* layout */
     display: grid;
     grid-template-rows: 80px 1fr auto;
+
+    
 
 }
 
