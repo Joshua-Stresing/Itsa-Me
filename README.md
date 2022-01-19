@@ -12,6 +12,8 @@ list of hobbies
 
 Lil about myself
 
+use css on the different sections to add styles
+
 
 
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
