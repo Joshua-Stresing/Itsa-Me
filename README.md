@@ -2,6 +2,18 @@
 
 My new project.
 
+
+My first about me!
+
+Joshua Stresing
+pronouns-whatever your feeling
+
+list of hobbies
+
+Lil about myself
+
+
+
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
 
 If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
